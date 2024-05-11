@@ -1,0 +1,417 @@
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Services
+
+
+Certified Translations
+Business Translations
+
+Languages
+Documents
+
+
+
+
+About
+
+
+About Us
+Work With Us
+Blog
+
+
+
+Contact
+
+
+
+  Account
+
+
+Login
+Create Account
+
+
+
+
+
+Request Quote
+
+
+Check Prices & Order
+
+
+
+  en
+
+
+
+Deutsch
+
+
+Español
+
+
+Français
+
+
+
+
+
+
+
+
+
+
+
+
+Quality translations delivered quickly
+Thousands of individuals and businesses globally have had accurate, professional and fluent translations delivered by Translayte, right on time. Start receiving yours today.
+Order Your Translation 
+
+
+
+
+
+
+
+
+
+
+
+Place an order
+Choose the service you need, specify length, languages, upload files, choose options, and include any additional notes.
+
+
+
+
+
+
+
+Partner gets assigned
+Your job is assigned to a professional translator who is a native speaker with extensive domain experience in your subject.
+
+
+
+
+
+
+
+Your order. Delivered.
+You receive your requested translation on or before the deadline, and have the opportunity to double check and request changes.
+
+
+
+
+
+
+
+
+A few companies we have worked with
+
+
+
+
+
+
+
+
+... Plus over 1,000 other small & medium sized businesses and individuals globally.
+
+
+
+
+
+
+Translayte provides certified (official) and business translation services that are easy to order, fairly priced, accurate and delivered quickly.
+We can help translate your personal or business documents, website or software, from a wide range of document formats, across multiple languages, by leveraging a pool of over 3,000 native speaking professional translators. Your translation will be delivered quickly, at the highest quality, whatever the document or purpose.
+
+
+
+
+Certified Translations
+from {{ pricing.service[0].fee | currency(pricing.currency.symbol) }} / {{ pricing.service[0].qty_type[locale] }}
+Learn More
+
+Do you need a certified or official translation to support an immigration, legal, professional, academic or financial application?
+
+At Translayte, we have completed thousands of certified, sworn, notarised and legalised translations for customers globally. We work exclusively with official translators in each country, ensuring that your translation will be of the highest quality and will be acceptable to the authority you are submitting to.
+Our certified and sworn translations are accepted by authorities globally and you can upload documents in PDF, Office and image file formats.
+Learn More
+
+
+
+
+
+Business Translations
+ from {{ pricing.service[1].fee | currency(pricing.currency.symbol) }} / {{ pricing.service[1].qty_type[locale] }}
+Learn More
+
+Does your business require professional and high-quality translations for its documents, website, software or to support its global marketing campaigns?
+
+Translayte provides an easy and effective way for your business to obtain translations into one or more languages. You get to work with the best and most experienced translators, and if required, specialists who understand the terminology and context relevant to your project.
+We work with customers across all sectors and industries, helping businesses transition from local to global, and offer a comprehensive suite of translation services for businesses.
+Learn More
+
+
+
+
+
+
+
+
+More reasons to use us
+
+
+
+Simple, Upfront Pricing
+Transparent prices that reflect quality and cost.
+
+
+
+Quick & Helpful Support
+Contact us anytime, 24/7, and receive a prompt response.
+
+
+
+Secure Online Ordering
+Upload documents, get prices and make payments securely.
+
+
+
+Ontime Delivery
+Get your order delivered on time. Every time.
+
+
+
+Accurate Translations
+Accurate translations by professional, human translators
+
+
+
+
+Order Your Translation 
+
+
+
+
+
+
+What our customers say
+
+
+
+What you provided is absolutely perfect and resolves our issue , more so as we were let down by quality and content of a previous translator that my wife had used.
+— Darrell
+
+
+
+
+Thank you very much for this. Yes, everything is perfect now. I want to thank you for your services and your quick responses when small changes needed to be made. I will definitely recommend your translation services.
+— Emiliano
+
+
+
+
+Thank you so much for your efficient and professional service. We will definitely be using translayte again in the future.
+— Nicolette
+
+
+
+
+Thanks for such a hard work. In general I am very happy with the translation.
+— Sona
+
+
+
+
+Thank you so much, this is perfect. I have rechecked and I liked the quality of work you provide. I will definitely recommend your website.
+— Faiza
+
+
+
+
+Hi, Thanks for the services to date however, and I was really pleased with the translation you provided me on my business proposal.
+— John
+
+
+
+
+It is the first time I used your services and it will not be the last.
+— Coral
+
+
+
+
+Thanks so much for your support. I am very impressed with my document structure and the amount of detail the translator has put into retaining the document format.
+— Kingsley
+
+
+
+
+This is to acknowledge receipt of the certified translation. I must say the work done is tremendous!!
+— Arthur
+
+
+
+
+Thank you very much for proofreading and editing my translation. I have had a read through and I am happy with it.
+— Priscilla
+
+
+
+
+Thanks for the help am really happy with the translation you have done! Keep it up! I will check through and let you know if there are any amendments to be made. Thanks again. x
+— Paula
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Started
+Get an instant quote and send us your project requirements. We have qualified translators ready at short notice.
+Check Prices & Order 
+Alternatively,   send us a message. We promise a quick response.
+
+
+
+
+
+
+
+
+
+About Translayte
+Translayte is a leading provider of professional and certified translation services. We translate, edit and certify thousands of documents monthly, ensuring that our clients are able to complete applications successfully or communicate effectively.
+
+
+Translation Services
+
+Certified Translations
+Business Translations
+Languages
+Documents
+
+
+
+About
+
+About Us
+Join Us
+Contact
+Blog
+
+
+
+Legal
+
+Terms
+Privacy Policy
+
+
+
+
+
+
+Copyright © BDXL Ltd. (No. 7496682). VAT No. GB119597575.
+
+french   spanish   german
+
+
+
+
+
+
+
+
+Request a quote
+
+×
+
+
+
+
+
+
+
+
+Name
+
+
+{{ contactForm.errors.get('name') }}
+
+
+
+
+@
+
+Email Address
+
+
+{{ contactForm.errors.get('email') }}
+
+
+
+Message
+
+
+{{ contactForm.errors.get('message') }}
+
+
+
+ Upload files for accurate quote (optional).
+
+{{ file.name | truncate(25) }}
+
+remove  
+
+×
+
+
+
+
+ Upload File(s) 
+
+
+
+
+
+Send MessageSending. Please wait...
+
+
+
+ 
+
+
+
+
+
+
+
+

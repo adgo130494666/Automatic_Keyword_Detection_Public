@@ -1,0 +1,26 @@
+Guardar proyecto en una carpeta
+
+Abrir powershell y posicionarse en la carpeta con comando cd
+
+Verificar si tenemos el python version 3.8 con el comando : 
+pyenv versions
+
+Si no tenemos descargar con comando:
+pyenv install 3.8.0
+
+Luego asignar  como local y global con los comandos:
+pyenv local  3.8.0
+pyenv global 3.8.0
+
+Ejecutar comando para copiar direccion de nuestro python
+pyenv which python
+
+Ejemplo:
+C:\Users\admin-gtic\.pyenv\pyenv-win\versions\3.8.0\python.exe
+
+Luego ejecutar siguiente comando para instalar todas las librerias del proyecto
+
+pipenv --python C:\Users\admin-gtic\.pyenv\pyenv-win\versions\3.8.0\python.exe
+pipenv install
+
+Ir a visual studio code, seleccionar el interpreter con 3.8 pipenv  y ejecutar el archivo main.py

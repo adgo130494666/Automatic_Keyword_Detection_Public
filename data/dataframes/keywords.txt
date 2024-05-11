@@ -1,0 +1,6 @@
+
+ Topic 0:traduccion, traductor, documento, servicio, presupuesto, idioma, espanol, poder, profesional, espana, precio, empresa, agencia, franz, contacto
+ Topic 1:receta, cocina, pollo, poder, citibanamex, queso, plato, carne, casero, arroz, verdura, comida, huevo, pasta, crema
+ Topic 2:string, tarjeta, banco, credito, servicio, inversion, informacion, cuenta, producto, fondo, cliente, seguridad, banorte, poder, dinero
+ Topic 3:master, universitario, grado, universidad, estudio, ciencia, servicio, curso, online, educacion, campus, centro, informacion, alumno, programa
+ Topic 4:hospital, servicio, salud, unidad, centro, atencion, informacion, cirugia, calidad, quironsalud, profesional, especialidad, noticia, tratamiento, urgencia
